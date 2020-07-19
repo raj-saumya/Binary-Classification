@@ -1,0 +1,83 @@
+.pointer {
+  cursor: pointer;
+}
+
+.main {
+  position: absolute;
+  top: 0;
+  padding: 104px 64px;
+  height: calc(100% - 208px);
+  width: calc(100% - 128px);
+}
+
+.blob {
+  position: absolute;
+  right: 0;
+}
+
+.dotted-pattern {
+  position: absolute;
+  bottom: -80px;
+}
+
+.app-title {
+  top: 0;
+  position: absolute;
+  padding: 16px;
+  color: #1b2d2a;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  position: relative;
+  background: #dfe9d7;
+  box-shadow: 0px 8px 16px -8px #1b2d2a46;
+  border-radius: 8px;
+}
+
+.container > div {
+  margin: 40px;
+}
+
+.scatter-plot {
+  flex: 2;
+}
+
+.card {
+  background: #1b2d2a;
+  border-radius: 8px;
+  box-shadow: 2px 10px 24px -8px #0a0a0a;
+  padding: 16px;
+  line-height: 1.4em;
+  color: #f5f5f5;
+}
+
+.slide-panel {
+  z-index: 1;
+  position: absolute;
+  left: 0;
+  height: 100vh;
+  background: #f8fcf8;
+  width: 300px;
+  padding: 24px;
+  box-shadow: 0px 10px 24px -8px #1b2d2a;
+}
+
+.fade-enter {
+  transform: translateX(-100%);
+}
+
+.fade-enter-active {
+  transform: translateX(0%);
+  transition: all 800ms ease-in-out;
+}
+
+.fade-exit {
+  transform: translateX(0%);
+}
+
+.fade-exit-active {
+  transform: translateX(-100%);
+  transition: all 800ms ease-in-out;
+}

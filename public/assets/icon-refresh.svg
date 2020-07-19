@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>refresh-circle-sharp</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-1056.000000, -724.000000)" fill="#1B2D2A" fill-rule="nonzero">
+            <g id="refresh-circle-sharp" transform="translate(1056.000000, 724.000000)">
+                <path d="M12.48,0 C5.5986,0 0,5.5992 0,12.48 C0,19.3716 5.5884,24.96 12.48,24.96 C19.3614,24.96 24.96,19.3614 24.96,12.48 C24.96,5.5878 19.3722,0 12.48,0 Z M18.12,13.14 C18.12,16.254886 15.594886,18.78 12.48,18.78 C9.36511401,18.78 6.84,16.254886 6.84,13.14 C6.84,10.025114 9.36511401,7.5 12.48,7.5 L12.7326,7.5 L11.2926,6.06 L12.48,4.872 L16.068,8.46 L12.48,12.048 L11.292,10.86 L12.9672,9.1848 C12.8232,9.18 12.66,9.18 12.48,9.18 C10.2929524,9.18 8.52,10.9529524 8.52,13.14 C8.52,15.3270476 10.2929524,17.1 12.48,17.1 C14.6670476,17.1 16.44,15.3270476 16.44,13.14 L16.44,12.3 L18.12,12.3 L18.12,13.14 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

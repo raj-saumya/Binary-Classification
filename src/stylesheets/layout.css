@@ -1,0 +1,19 @@
+.h-x2 {
+  height: 4px;
+}
+
+.h-x {
+  height: 8px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
